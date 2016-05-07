@@ -12,8 +12,8 @@ You can pull a built container.
 $ docker pull jkawamoto/ambassadors
 ```
 
-Useage
--------
+Usage
+------
 AmbassadorS has three modes; server, client, tunnel.
 Those modes are associated as follows.
 
